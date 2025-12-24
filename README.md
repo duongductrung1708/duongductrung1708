@@ -1,16 +1,14 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://duongductrung1708.io)
 <h1 align="center">Hi 👋, I'm Duong Duc Trung</h1>
-<h3 align="center">A passionate frontend developer from Vietnam</h3>
+<h3 align="center">A passionate web developer from Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duongductrung1708&label=Profile%20views&color=0e75b6&style=flat" alt="duongductrung1708" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duongductrung1708" alt="duongductrung1708" /></a> </p>
 
-- 🔭 I’m currently working on [Online Movie Ticket Booking System](https://github.com/duongductrung1708/movie-ticket-booking.git)
-
 - 🌱 I’m currently learning **Nodejs**
 
-- 💬 Ask me about **Android, MERN**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **trungyna1708@gmail.com**
 
